@@ -3,7 +3,7 @@ const Header = () => {
     return (
         <div className='ui fixed menu'>
             <div className="ui container center">
-                <h2>EShop(All Data is fetch From api of fakeApiStore)</h2>
+                <h2>EShop(All Data is fetch From api of fakeStoreApi)</h2>
             </div>           
         </div>
     )
